@@ -53,7 +53,7 @@ a) As a result, the member will be added to the list of members of that class.
 
 10. viewClassesWithVacancies(..): Any user should be able to view the list of classes that are not yet full. For each class in the list, display all the class information, except for the class capacity and the list of members.
 
-11.cancelBooking(..): A member should be able to cancel a booking by providing the class ID. The class’s list of members should be updated accordingly.
+11. cancelBooking(..): A member should be able to cancel a booking by providing the class ID. The class’s list of members should be updated accordingly.
 
 12. quitProgram(..): Any user should be able to quit the program properly.
 The system should create files with the data recorded during the current session:
